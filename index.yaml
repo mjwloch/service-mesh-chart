@@ -3,11 +3,11 @@ entries:
   platform-service:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-08-05T09:34:49.750044043Z"
+    created: "2021-08-05T09:43:55.532726364Z"
     description: Platform service chart
-    digest: 47e3c452689f92f0ec095e1e216d44ada0a73dcdec023698ea844429995fe60b
+    digest: d5965c6f319987a48694ba5ce6075be8d842a95455681719c3d7bbc031055aec
     name: platform-service
     urls:
-    - https://github.com/mjwloch/service-mesh-chart/releases/download/platform-service-1.0.39/platform-service-1.0.39.tgz
-    version: 1.0.39
-generated: "2021-08-05T09:34:49.623202262Z"
+    - https://github.com/mjwloch/service-mesh-chart/releases/download/platform-service-1.0.40/platform-service-1.0.40.tgz
+    version: 1.0.40
+generated: "2021-08-05T09:43:55.384023293Z"
